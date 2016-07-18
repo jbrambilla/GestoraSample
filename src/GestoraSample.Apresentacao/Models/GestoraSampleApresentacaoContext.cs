@@ -18,6 +18,5 @@ namespace GestoraSample.Apresentacao.Models
         public GestoraSampleApresentacaoContext() : base("name=GestoraSampleApresentacaoContext")
         {
         }
-   
     }
 }
