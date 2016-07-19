@@ -54,6 +54,8 @@
       <DependentUpon>201607181848220_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Old\clienteRepo.cs" />
+    <Compile Include="Old\Contexto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositorios\ClienteRepository.cs" />
     <Compile Include="Repositorios\RepositoryBase.cs" />
